@@ -1,0 +1,1 @@
+example code using the LSM9DS0 gyroscope + accelerometer + magnetometer
